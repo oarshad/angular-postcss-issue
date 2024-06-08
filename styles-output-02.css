@@ -1,0 +1,7 @@
+[dir="ltr"] p.end {
+  float: left;
+}
+
+[dir="rtl"] p.end {
+  float: right;
+}
