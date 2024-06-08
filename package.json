@@ -1,5 +1,5 @@
 {
-  "name": "angular-postscss-issue",
+  "name": "angular-postcss-issue",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:angular-postscss-issue": "node dist/angular-postscss-issue/server/server.mjs",
+    "serve:ssr:angular-postcss-issue": "node dist/angular-postcss-issue/server/server.mjs",
     "postcss-01": "postcss styles.css -o styles-output-01.css",
     "postcss-02": "postcss styles-output-01.css -o styles-output-02.css"
   },
