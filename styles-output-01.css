@@ -1,3 +1,11 @@
+[dir="ltr"] p.start {
+  float: left;
+}
+
+[dir="rtl"] p.start {
+  float: right;
+}
+
 p.end {
   float: left;
 }

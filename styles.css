@@ -1,3 +1,7 @@
+p.start {
+  float: left;
+}
+
 /*!rtl:begin:ignore*/
 p.end {
   float: left;
